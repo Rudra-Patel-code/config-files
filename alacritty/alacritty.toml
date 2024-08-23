@@ -1,0 +1,19 @@
+import = ["/home/rudra/.cache/wal/colors-alacritty.toml"]
+
+[env]
+TERM = "xterm-256color"
+
+[window]
+padding.x = 10
+padding.y = 10
+title = "Alacritty"
+opacity = 0.85
+blur = true
+
+[cursor]
+style = "Beam"
+
+[font]
+normal.family = "JetBrainsMono Nerd Font"
+
+size = 9
